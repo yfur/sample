@@ -25,12 +25,7 @@ while i < 100:
     i = j + k
     print(i)
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-# ああああああ
-=======
-=======
->>>>>>> yfur_add_whilesentence
+
 
 print('Pull')
 print('Pull')
