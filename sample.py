@@ -1,3 +1,4 @@
+# coding:utf-8
 import numpy as np
 a = np.array([1,2,3])
 b = np.array([0,1,2])
@@ -24,4 +25,13 @@ while i < 100:
     i = j + k
     print(i)
 
+<<<<<<< Updated upstream
 # ああああああ
+=======
+
+print('Pull')
+print('Pull')
+print('Pull')
+
+# あああ
+>>>>>>> Stashed changes
