@@ -7,7 +7,7 @@
 int main(void)
 {
 
-  int i, j, amari;
+  int i, j;
 
   /* 和 */
   int sum;
