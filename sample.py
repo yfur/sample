@@ -11,3 +11,15 @@ for i in range(10):
 while i < 100:
     i = i + 1
     print(i**2)
+
+'''fibo'''
+i = 1
+j = 1
+print(j)
+print(i)
+
+while i < 100:
+    k = j
+    j = i
+    i = j + k
+    print(i)
