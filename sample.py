@@ -24,4 +24,7 @@ while i < 100:
     i = j + k
     print(i)
 
-# ああああああ
+
+print('Pull')
+print('Pull')
+print('Pull')
