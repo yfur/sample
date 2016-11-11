@@ -1,3 +1,4 @@
+# coding:utf-8
 import numpy as np
 a = np.array([1,2,3])
 b = np.array([0,1,2])
@@ -24,7 +25,19 @@ while i < 100:
     i = j + k
     print(i)
 
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+# ああああああ
+=======
+=======
+>>>>>>> yfur_add_whilesentence
 
 print('Pull')
 print('Pull')
 print('Pull')
+<<<<<<< HEAD
+
+# あああ
+>>>>>>> Stashed changes
+=======
+>>>>>>> yfur_add_whilesentence
