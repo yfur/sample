@@ -1,5 +1,4 @@
-print("Hello, Wordl!");
+import sys
+print(sys.version)
 
-print("Hello, Hello, Hello");
-
-# 
+# あああ
