@@ -27,7 +27,6 @@ int main(void)
   }
 
   printf("\n");
-  printf("aaa\n")
 
   return 0;
 }
