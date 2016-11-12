@@ -1,9 +1,10 @@
+''' This code is very easy '''
 import numpy as np
-a = np.array([1,2,3])
-b = np.array([0,1,2])
+
+a = np.array([1, 2, 3])
+b = np.array([0, 1, 2])
 c = np.dot(a, b)
 print(c)
-
 
 for i in range(10):
     print(i)
@@ -23,3 +24,7 @@ while i < 100:
     j = i
     i = j + k
     print(i)
+
+x = 2
+y = 3
+print(y**2)
