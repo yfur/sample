@@ -26,7 +26,7 @@ my first GitHub project for xxx
 
 MarkDown
 
-Some Changes
+Some Changes from different PC
 
 > 引用する
 >
