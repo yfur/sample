@@ -1,3 +1,9 @@
+# SAMPLE
+
+For my program coding and examining GitHub.
+
+Gitの練習とかGitHubの仕様の確認とかする．
+
 # タイトル
 
 my first GitHub project for xxx
