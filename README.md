@@ -1,6 +1,6 @@
 # SAMPLE
 
-For my program coding and examining GitHub.
+For my training and examining GitHub.
 
 Gitの練習とかGitHubの仕様の確認とかする．
 
