@@ -1,5 +1,6 @@
 ''' This code is very easy '''
 import numpy as np
+import sys
 
 a = np.array([1, 2, 3])
 b = np.array([0, 1, 2])
@@ -28,3 +29,5 @@ while i < 100:
 x = 2
 y = 3
 print(y**2)
+
+print(sys.version)
